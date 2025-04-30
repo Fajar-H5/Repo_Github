@@ -1,0 +1,25 @@
+
+ul{
+    display: fleX;
+    flex-direction: column ;
+    gap: 20px;
+    list-style: none;
+    padding-bottom: 200px;
+    width: center;
+}
+
+ li{
+    background-color: #ddd5d5;
+    padding: 10px ;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+body {
+    background-color: rgb(222, 142, 30);
+   
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+ 
